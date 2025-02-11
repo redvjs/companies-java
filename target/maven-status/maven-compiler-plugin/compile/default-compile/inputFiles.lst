@@ -1,0 +1,11 @@
+/Users/vschot/Downloads/ch-starter/src/main/java/uk/gov/companieshouse/docsapp/DocsAppApplication.java
+/Users/vschot/Downloads/ch-starter/src/main/java/uk/gov/companieshouse/docsapp/controllers/CompaniesController.java
+/Users/vschot/Downloads/ch-starter/src/main/java/uk/gov/companieshouse/docsapp/dao/CompanyRegistry.java
+/Users/vschot/Downloads/ch-starter/src/main/java/uk/gov/companieshouse/docsapp/dao/CompanyRepository.java
+/Users/vschot/Downloads/ch-starter/src/main/java/uk/gov/companieshouse/docsapp/dao/InMemoryCompanyRegistry.java
+/Users/vschot/Downloads/ch-starter/src/main/java/uk/gov/companieshouse/docsapp/dao/JpaCompanyRegistry.java
+/Users/vschot/Downloads/ch-starter/src/main/java/uk/gov/companieshouse/docsapp/model/company/Company.java
+/Users/vschot/Downloads/ch-starter/src/main/java/uk/gov/companieshouse/docsapp/model/company/ForeignCompany.java
+/Users/vschot/Downloads/ch-starter/src/main/java/uk/gov/companieshouse/docsapp/model/company/LimitedCompany.java
+/Users/vschot/Downloads/ch-starter/src/main/java/uk/gov/companieshouse/docsapp/model/company/LimitedLiabilityPartnership.java
+/Users/vschot/Downloads/ch-starter/src/main/java/uk/gov/companieshouse/docsapp/model/company/NonProfitOrganization.java
